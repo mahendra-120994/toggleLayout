@@ -1,0 +1,23 @@
+.nav-bar {
+  padding: 5px 20px;
+  background-color: #475569;
+  height: 20vh;
+}
+.nav-hdg {
+  color: #ffffff;
+  font-size: 30px;
+  margin: 5px;
+}
+.nav-list {
+  padding: 5x;
+  margin: 5px;
+}
+.nav-list-item {
+  list-style: none;
+}
+.checkbox {
+}
+.label {
+  margin-left: 5px;
+  color: #ffffff;
+}
